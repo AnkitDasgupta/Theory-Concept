@@ -1,0 +1,10 @@
+dir                ← list files
+cd ..              ← up one folder
+cd "path\to\dir"   ← go to folder
+mkdir name         ← new folder
+del file           ← delete file
+rmdir /s /q dir    ← delete folder tree (careful)
+type file          ← show file
+notepad file       ← edit/create file
+set / setx         ← env vars (temp / permanent)
+command /?         ← help for any command
